@@ -1,0 +1,42 @@
+5th International Workshop on Quantum Resource Estimation (QRE 2023)
+https://www.quantumresource.org/
+
+June 18, 2023 - Orlando, USA
+
+co-located with International Symposium on Computer Architecture (ISCA) 2023
+
+==================--= Call for Papers =--==========================
+
+Quantum computation has a growing number of promising application areas such as quantum chemistry, quantum optimisation and finance. However, the first industrially relevant and scalable quantum computer seems to be at least a decade away. Therefore, one of the most pressing questions is "How many physical qubits and how much time is necessary to execute a quantum algorithm on a selected hardware platform where the algorithmic output is more important than the fact a quantum computer was used to calculate it?"
+
+By examining this question in depth we can motivate continued investment for quantum computing, further enable resource friendly quantum algorithm development and continue to push technological advances that will lead to a scalable quantum computing ecosystem.
+
+The workshop will bring together researchers to discuss new methods and directions needed to develop, as soon as possible, the tools to:
+* accurately analyze and benchmark complex quantum algorithms
+* adapt error-correction techniques
+* refine classical control and hardware microarchitectures
+* enable scientifically and commercially relevant quantum applications
+
+Research papers, tutorials, software and other demonstrations, and work-in-progress reports are within the scope of the workshop. Invited talks by leading international experts will complete the program. Contributions on all areas of quantum performance analytics are welcome:
+* High level quantum circuit analytics.
+* Fault-tolerant quantum circuit analytics.
+* Clifford+T optimisation strategies.
+* Resource efficient surface code implementations.
+* Surface code decoders.
+* Practical quantitative analysis of surface code alternatives.
+* Noisy Intermediate Scale Quantum (NISQ) evaluation.
+
+
+===== Paper submission =====
+
+Initial submission for QRE2023 will consist of an extended abstract, limited to 2+epsilon-pages (including figures and references, please don't go nuts with the epsilon!). Contributions must be written in English and report on original, unpublished work, not submitted for publication elsewhere.
+
+Upon acceptance, researchers are invited to submit full research papers to IEEE Transactions on Quantum Engineering.
+
+https://easychair.org/conferences/?conf=qre2023
+
+===== Important Dates =====
+
+Extended Abstract Submission: 8 May 2023
+Notification Extended Abstract: 15 May 2023
+Workshop Date: 18 June 2023
