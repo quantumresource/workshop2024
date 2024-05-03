@@ -1,7 +1,7 @@
 6th International Workshop on Quantum Resource Estimation (QRE 2024)
 https://www.quantumresource.org/
 
-August 23, 2024 - Helsinki, Finland
+September 11, 2024 - Helsinki, Finland
 
 ==================--= Call for Papers =--==========================
 
@@ -35,6 +35,6 @@ https://easychair.org/conferences/?conf=qre2023
 
 ===== Important Dates =====
 
-Extended Abstract Submission: 2 June 2024
-Notification Extended Abstract: 1 July 2024
-Workshop Date: 23 August 2024
+Extended Abstract Submission: 1 July 2024
+Notification Extended Abstract: 1 August 2024
+Workshop Date: 11 September 2024
