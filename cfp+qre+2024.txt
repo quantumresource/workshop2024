@@ -3,6 +3,16 @@ https://www.quantumresource.org/
 
 September 11, 2024 - Helsinki, Finland
 
+==================--= Call for Participation =--==========================
+
+The focus of this year's workshop are neutral atom computers. We hope to encourage participation from those working in quantum algorithm optimization, error-correction, architecture design, quantum compilation, classical control and resource benchmarking.
+
+The workshop is focused around developing techniques and tools that aid quantum software and algorithm design, informed by the realities of the hardware architectures. QRE shifts the perspective from complexity theoretic arguments to quantitative computer architecture arguments.
+
+The goal is to reduce the physical resource costs for interesting quantum algorithms as quickly as possible. Small-scale, cloud-based NISQ machines sparked the interest of exact, realistic and non asymptotic resource estimations. It is still uncertain if any valuable quantum algorithm is possible without incorporating costly error-correction protocols that make estimation, benchmarking and optimization far more complex. QRE is the forum to share research on the near term feasibility of interesting quantum algorithms.
+
+QRE will be preceded by the <a href="https://instituteq.fi/fqd/" target=_blank>Finnish Quantum Days</a> and afterwards by the <a href="https://unitary.fund/community/unitaryCON/" target=_blank>unitaryCon2024</a>.
+
 ==================--= Call for Papers =--==========================
 
 Quantum computation has a growing number of promising application areas such as quantum chemistry, quantum optimisation and finance. However, the first industrially relevant and scalable quantum computer seems to be at least a decade away. Therefore, one of the most pressing questions is "How many physical qubits and how much time is necessary to execute a quantum algorithm on a selected hardware platform where the algorithmic output is more important than the fact a quantum computer was used to calculate it?"
